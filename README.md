@@ -17,10 +17,10 @@
         <li>👯 I’m looking to collaborate on <b>OpenSource Projects</b></li>
       </ul>
     </td>
-    <td style="text-align: right; vertical-align: top; border: none;">
+    <td style="text-align: right; vertical-align: top; border: none; width=1000">
       <img src="https://visitor-badge.laobi.icu/badge?page_id=TijoT.TijoT" alt="Visitor Badge"/>
       <br>
-      <img width="500" src="https://www.cybermedian.com/de/wp-content/uploads/sites/12/2022/01/sofware_enginyering.png" alt="Coding" />
+      <img src="https://www.cybermedian.com/de/wp-content/uploads/sites/12/2022/01/sofware_enginyering.png" alt="Coding" />
       </td>
     </tr>
 </table>
