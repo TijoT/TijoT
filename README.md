@@ -11,7 +11,7 @@
     <td style="text-align: left; padding-right: 20px; vertical-align: top; border: none;">
       <ul>
         <li>
-          🔭 Currently working on an <b>Ansible playbook</b> for automating the provisioning of Docker on Raspberry Pi devices.
+          🔭 Currently working on an <b>Ansible playbook</b>
         </li>
         <li>🌱 I’m currently learning about <a href="https://www.hashicorp.com/" >HashiCorp</a></li> 
         <li>👯 I’m looking to collaborate on <b>OpenSource Projects</b></li>
