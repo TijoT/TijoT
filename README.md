@@ -8,15 +8,15 @@
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="text-align: left; padding-right: 20px; vertical-align: top; border: none;">
+    <td style="text-align: left; padding-right: 10px; vertical-align: top; border: none;width=500">
       <ul>
         <li>
-          🔭 Currently working on a project to provision Docker, Docker Compose in Raspberry Pi hosts using <b>Ansible playbook</b>
+          🔭 Currently working on a project to provision Docker,<br> Docker Compose in Raspberry Pi hosts using <b>Ansible playbook</b>
         </li>
         <!-- <li>🌱 I’m currently learning about <a href="https://www.hashicorp.com/" >HashiCorp</a></li> -->
       </ul>
     </td>
-    <td style="text-align: center; vertical-align: top; border: none; width=1000">
+    <td style="text-align: right; vertical-align: top; border: none; width=1000">
       <img src="https://visitor-badge.laobi.icu/badge?page_id=TijoT.TijoT" alt="Visitor Badge"/>
       <br>
       <img src="https://www.cybermedian.com/de/wp-content/uploads/sites/12/2022/01/sofware_enginyering.png" alt="Coding" />
