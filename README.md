@@ -6,9 +6,9 @@
 
 <br/>
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse;" >
   <tr>
-    <td style="text-align: left; vertical-align: top; border: none;">
+    <td align="left">
       <ul>
         <li>
           🔭 Currently working on a project to provision Docker, Docker Compose in Raspberry Pi hosts using <b>Ansible playbook</b>
@@ -16,7 +16,7 @@
         <!-- <li>🌱 I’m currently learning about <a href="https://www.hashicorp.com/" >HashiCorp</a></li> -->
       </ul>
     </td>
-    <td style="text-align: right; vertical-align: top; border: none; ">
+    <td align="right">
       <img src="https://visitor-badge.laobi.icu/badge?page_id=TijoT.TijoT" alt="Visitor Badge"/>
       <br>
       <img src="https://www.cybermedian.com/de/wp-content/uploads/sites/12/2022/01/sofware_enginyering.png" alt="Coding" />
