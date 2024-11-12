@@ -6,7 +6,7 @@
 
 <br/>
 
-<table style="border-collapse: collapse; width: 1000%;">
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td style="text-align: left; padding-right: 20px; vertical-align: top; border: none;">
       <ul>
