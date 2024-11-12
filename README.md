@@ -36,3 +36,20 @@
      <img src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white" target="_blank" /> 
   </a>
 </div>
+
+ <hr/>
+ 
+<h2 align="center">🚀 Languages-Frameworks-Tools 🚀</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,flask,bash,dotnet,c,cpp,go,powershell" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,azure,grafana,aws" /><br>
+    <img src="https://skillicons.dev/icons?i=pycharm,vscode,vim,qt,androidstudio,matlab" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,mint,debian" /><br>
+    <img src="https://skillicons.dev/icons?i=git,azure,gitlab,jenkins" /><br>
+    <img src="https://skillicons.dev/icons?i=raspberrypi,postman,nginx" /><br>
+    <img src="https://skillicons.dev/icons?i=selenium,qt" /><br>
+</div>
+
+<br/>
+<hr/>
