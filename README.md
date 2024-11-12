@@ -11,7 +11,7 @@
     <td style="text-align: left; padding-right: 10px; vertical-align: top; border: none;width=500">
       <ul>
         <li>
-          🔭 Currently working on a project to provision Docker,<br> Docker Compose in Raspberry Pi hosts using <b>Ansible playbook</b>
+          🔭 Currently working on a project to provision Docker, Docker Compose in Raspberry Pi hosts using <b>Ansible playbook</b>
         </li>
         <!-- <li>🌱 I’m currently learning about <a href="https://www.hashicorp.com/" >HashiCorp</a></li> -->
       </ul>
