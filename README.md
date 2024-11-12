@@ -14,7 +14,6 @@
           🔭 Currently working on an <b>Ansible playbook</b>
         </li>
         <li>🌱 I’m currently learning about <a href="https://www.hashicorp.com/" >HashiCorp</a></li> 
-        <li>👯 I’m looking to collaborate on <b>OpenSource Projects</b></li>
       </ul>
     </td>
     <td style="text-align: right; vertical-align: top; border: none; width=1000">
@@ -42,13 +41,13 @@
 <h2 align="center">🚀 Languages-Frameworks-Tools 🚀</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,flask,bash,dotnet,c,cpp,go,powershell" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,azure,grafana,aws" /><br>
-    <img src="https://skillicons.dev/icons?i=pycharm,vscode,vim,qt,androidstudio,matlab" /><br>
+    <img src="https://skillicons.dev/icons?i=python,flask,bash,cs,cpp,go,c,powershell" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,ansible,kubernetes,azure,terraform,grafana,aws" /><br>
+    <img src="https://skillicons.dev/icons?i=pycharm,vim,vscode,qt,androidstudio,matlab" /><br>
     <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,mint,debian" /><br>
     <img src="https://skillicons.dev/icons?i=git,azure,gitlab,jenkins" /><br>
     <img src="https://skillicons.dev/icons?i=raspberrypi,postman,nginx" /><br>
-    <img src="https://skillicons.dev/icons?i=selenium,qt" /><br>
+    <img src="https://skillicons.dev/icons?i=selenium,dotnet" /><br>
 </div>
 <br/>
 
